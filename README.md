@@ -14,7 +14,7 @@ The home page of Maitri serves as the starting point for your journey. Here, you
 
 Welcome to Sriba, the art therapy section of Maitri. Here, you can unleash your creativity and express yourself through various forms of art. Whether it's painting, drawing, or any other medium, let your imagination flow freely.
 
-![Art Therapy](screenshots/art_therapy.png)
+![Art Therapy](Art.png)
 
 ### Fazz - Music Page
 
@@ -22,7 +22,7 @@ Step into Fazz, the music page of Maitri, where melodies and rhythms intertwine 
 
 Share your favorite tracks, explore new genres, and maybe even create your own compositions.
 
-![Music Page](screenshots/music.png)
+![Music Page](Music.png)
 
 ### 11:22 - Journal Writing
 
@@ -30,7 +30,7 @@ Welcome to 11:22, the journal writing section of Maitri. Here, you can pour out 
 
 Accompany your entries with images that complement your writing by using the following command:
 
-![Journal Writing](screenshots/journal.png)
+![Journal Writing](Journal.png)
 
 ### Akash - Rage Section
 
@@ -38,7 +38,7 @@ Enter Akash, the rage section of Maitri, where emotions run deep and raw. Someti
 
 Use this space to confront and process your emotions. Add images that capture the intensity of your emotions or serve as a release for your rage using the following command:
 
-![Rage Section](screenshots/rage.png)
+
 
 ### How to Contribute
 
