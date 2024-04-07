@@ -1,4 +1,3 @@
-
 # Maitri Project README
 
 ## Welcome to Maitri!
@@ -9,16 +8,13 @@ Maitri is a personal project aimed at providing a space for creativity, expressi
 
 The home page of Maitri serves as the starting point for your journey. Here, you'll find a warm welcome and a brief overview of what each section has to offer. Feel free to explore and discover what resonates with you the most.
 
-![Artwork Title](Screenshot (146).png)
+![Home Page](screenshots/home.png)
 
 ### Sriba - Art Therapy
 
 Welcome to Sriba, the art therapy section of Maitri. Here, you can unleash your creativity and express yourself through various forms of art. Whether it's painting, drawing, or any other medium, let your imagination flow freely.
 
-Add images of your artwork by using the following command:
-```
-![Artwork Title](Screenshot (147).png)
-```
+![Art Therapy](screenshots/art_therapy.png)
 
 ### Fazz - Music Page
 
@@ -26,28 +22,23 @@ Step into Fazz, the music page of Maitri, where melodies and rhythms intertwine 
 
 Share your favorite tracks, explore new genres, and maybe even create your own compositions.
 
-Add images related to your musical journey using the following command:
-```
-![Music ](Screenshot (148).png))
-```
+![Music Page](screenshots/music.png)
 
 ### 11:22 - Journal Writing
 
 Welcome to 11:22, the journal writing section of Maitri. Here, you can pour out your thoughts, feelings, and experiences onto the digital page. Whether it's daily reflections, creative writing, or personal anecdotes, this space is yours to fill with words.
 
 Accompany your entries with images that complement your writing by using the following command:
-```
-![Journal](Screenshot (149).png)
-```
+
+![Journal Writing](screenshots/journal.png)
 
 ### Akash - Rage Section
 
 Enter Akash, the rage section of Maitri, where emotions run deep and raw. Sometimes, we need a safe space to express our anger, frustration, and inner turmoil. Here, you can let it all out through writing, art, or any other form of expression.
 
 Use this space to confront and process your emotions. Add images that capture the intensity of your emotions or serve as a release for your rage using the following command:
-```
-![Rage Image](image_url)
-```
+
+![Rage Section](screenshots/rage.png)
 
 ### How to Contribute
 
