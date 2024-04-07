@@ -8,7 +8,7 @@ Maitri is a personal project aimed at providing a space for creativity, expressi
 
 The home page of Maitri serves as the starting point for your journey. Here, you'll find a warm welcome and a brief overview of what each section has to offer. Feel free to explore and discover what resonates with you the most.
 
-![Home Page](Screenshot (146).png)
+![Home Page](home.png)
 
 ### Sriba - Art Therapy
 
